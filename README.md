@@ -1,4 +1,4 @@
-# LTU14-GROUP03
+# LTU15-nhom11
 BTL: Hệ thống ATM kết nối trao đổi thông qua RMI
 # Đặc điểm của chương trình
 - Chương trình phân tán
